@@ -42,6 +42,7 @@ With this bot, you can begin commands with the prefix **!** and separate argumen
 ##### view your upcoming meetings
 
 `!viewMeetings`
+- meetings wil automatically be deleted the day after they occur
 
 ##### get daily meeting summaries
 
